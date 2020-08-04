@@ -3,6 +3,9 @@
 Use the node package manager.
 
 ```bash
+git clone (url)
+```
+```bash
 npm install
 ```
 ```bash
